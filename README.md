@@ -131,7 +131,7 @@ Nono Cleaner is source-available.
 
 You may inspect, study, modify, and use the code for personal and non-commercial purposes.
 
-Commercial redistribution, resale, rebranding, or incorporation into commercial cleaner products requires explicit permission. See the [Nono Cleaner Source-Available Beta License](LICENSE) for the complete terms. This is not an OSI-approved Open Source License.
+Commercial redistribution, resale, rebranding, or incorporation into commercial cleaner products requires explicit permission. See the [Nono Cleaner Source-Available Beta License](LICENSE) for the complete terms. This license is not OSI-approved.
 
 ---
 
@@ -164,4 +164,4 @@ Nono Cleaner 是一款透明、保守的 macOS 原生清理工具。它不只顯
 
 ### License
 
-Nono Cleaner 採用 source-available 授權。你可以為個人非商業用途查看、學習、修改與使用程式碼。商業重新分發、販售、改名重新包裝，或整合到商業清理工具前，必須先取得明確授權。完整條款請參閱 [LICENSE](LICENSE)。這不是 OSI 認可的開源授權。
+Nono Cleaner 採用 source-available 授權。你可以為個人非商業用途查看、學習、修改與使用程式碼。商業重新分發、販售、改名重新包裝，或整合到商業清理工具前，必須先取得明確授權。完整條款請參閱 [LICENSE](LICENSE)。這份授權未獲 OSI 認可。
