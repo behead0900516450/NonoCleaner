@@ -56,7 +56,7 @@ Intel Macs have not been validated for this beta.
 
 ## Installation
 
-Download the latest beta from GitHub Releases once release artifacts are available.
+Public beta builds are not available yet. The first downloadable beta will be published after release validation.
 
 > This beta build may trigger macOS Gatekeeper warnings until Developer ID signing and notarization are completed.
 
