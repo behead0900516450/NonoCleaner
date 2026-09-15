@@ -6,11 +6,9 @@ Nono Cleaner handles local filesystem paths and cleanup actions. Reports involvi
 
 Please do not open a public issue containing exploitation details, private paths, credentials, or confidential filenames.
 
-Security vulnerabilities should be reported through GitHub Private Vulnerability Reporting once the public repository is available.
+Security vulnerabilities should be reported through GitHub Private Vulnerability Reporting.
 
-> **Private vulnerability reporting channel pending repository publication.**
-
-Until that channel is available, retain the report locally and do not post sensitive details in the public issue tracker.
+Use the repository's **Security** tab and choose **Report a vulnerability**. Do not post sensitive details in the public issue tracker.
 
 Include only the minimum information needed to reproduce the issue. Mask usernames and private path components whenever possible.
 

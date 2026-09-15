@@ -4,13 +4,14 @@ Assessment date: 2026-09-15
 
 ## Executive Summary
 
-The source tree is suitable for creating a GitHub repository. The remaining items below apply mainly to public binary distribution. No repository has been pushed and no GitHub repository has been created.
+The source tree is published at `https://github.com/behead0900516450/NonoCleaner`. The remaining items below apply mainly to public binary distribution. No GitHub Release, version tag, or binary artifact has been published.
 
 ## Local Git State
 
 - A local Git repository has been initialized on the `main` branch.
 - The initial public beta preparation commit has been created locally.
-- There are no configured remotes.
+- The local `main` branch tracks `origin/main`.
+- `origin` points to the public NonoCleaner repository.
 - All publishable project files are tracked and the working tree is clean.
 - Ignored local build output does not appear in the publishable file set.
 
@@ -52,7 +53,7 @@ The source tree is suitable for creating a GitHub repository. The remaining item
 
 - No API keys, access tokens, passwords, private keys, certificates, provisioning profiles, or Apple Team IDs were found in the publishable source tree.
 - Signing and credential file patterns are ignored.
-- No private security email was added. Reports will use GitHub Private Vulnerability Reporting after repository publication.
+- No private security email was added. GitHub Private Vulnerability Reporting is enabled.
 
 ## Personal and Hard-Coded Path Review
 
@@ -86,11 +87,10 @@ The repository includes the Nono Cleaner Source-Available Beta License 1.0 with 
 
 ## Repository Recommendation
 
-The source tree is ready for GitHub repository creation. Before publishing the first binary beta, complete or explicitly accept the following:
+The public source repository is ready for collaboration. Before publishing the first binary beta, complete or explicitly accept the following:
 
-1. Enable GitHub Private Vulnerability Reporting after repository creation.
-2. Prepare sanitized screenshots or intentionally leave the screenshot section empty.
-3. Explicitly accept the unsigned and unnotarized beta distribution limitation, or complete Developer ID signing and notarization.
-4. Validate the release artifact on a clean Apple Silicon Mac.
+1. Prepare sanitized screenshots or intentionally leave the screenshot section empty.
+2. Explicitly accept the unsigned and unnotarized beta distribution limitation, or complete Developer ID signing and notarization.
+3. Validate the release artifact on a clean Apple Silicon Mac.
 
 Do not publish local build artifacts or real scan reports.
