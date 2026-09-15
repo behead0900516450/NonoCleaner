@@ -1,0 +1,82 @@
+Nono Cleaner Source-Available Beta License 1.0
+
+Copyright © 2026 Nono Cleaner contributors
+
+This license makes the Nono Cleaner source code available for inspection,
+learning, research, personal use, and non-commercial collaboration. It is a
+source-available license and is not an OSI-approved Open Source License.
+
+1. Permission
+
+Subject to the conditions below, you may:
+
+- view and inspect the source code;
+- use the software for personal, non-commercial purposes;
+- use the source code for learning and research;
+- modify the software for your own personal, non-commercial use;
+- submit issues and pull requests to the official project; and
+- fork and redistribute the source code solely for non-commercial development,
+  research, and contribution to Nono Cleaner, provided that this license and
+  all copyright and attribution notices remain included.
+
+2. Commercial Use Requires Permission
+
+Without prior explicit written permission from the copyright holders, you may
+not:
+
+- sell Nono Cleaner or charge for access to it;
+- repackage, bundle, or redistribute Nono Cleaner for payment;
+- rename, rebrand, or present it as another commercial cleaner product;
+- incorporate all or a substantial part of its source code into a commercial
+  cleaner, storage-management product, or paid service;
+- provide a paid hosted, managed, subscription, or paid distribution version;
+  or
+- use the software or source code primarily to provide a commercial product or
+  service to third parties.
+
+For commercial licensing requests, contact the copyright holders through a
+contact method published by the official Nono Cleaner repository.
+
+3. Attribution and Notices
+
+You may not remove, hide, or misrepresent copyright, attribution, license, or
+authorship notices. Permitted copies and forks must include this license and
+the copyright notice above. You may not imply endorsement by the Nono Cleaner
+contributors.
+
+4. Contributions
+
+Issues and pull requests may be submitted for consideration. Unless separately
+agreed in writing, contributions accepted into this project are distributed
+under this license. Contributors must have the right to submit their changes
+and must not include private data, credentials, or third-party code they are
+not permitted to contribute.
+
+5. Future Versions and Separate Commercial Terms
+
+The copyright holders reserve the right to offer Nono Cleaner, including Pro or
+commercial editions, under separate terms. They may also release future
+versions of Nono Cleaner under a different license. A future license change
+does not retroactively remove rights already granted for a copy received under
+this license.
+
+6. Termination
+
+Your rights under this license terminate automatically if you violate its
+terms. If the violation is curable, your rights may be reinstated when the
+violation is fully corrected and the copyright holders confirm reinstatement
+in writing.
+
+7. Disclaimer of Warranty
+
+THE SOFTWARE AND SOURCE CODE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR
+A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, OR ERROR-FREE OPERATION. THE
+SOFTWARE MAY NOT BE SUITABLE FOR EVERY SYSTEM OR PURPOSE. YOU USE IT AT YOUR OWN
+RISK.
+
+8. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+WILL NOT BE LIABLE FOR ANY CLAIM, DATA LOSS, FILE LOSS, DAMAGES, OR OTHER
+LIABILITY ARISING FROM OR RELATED TO THE SOFTWARE OR ITS USE.

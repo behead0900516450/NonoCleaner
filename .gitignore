@@ -1,0 +1,70 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Swift Package Manager and build output
+.build/
+build/
+.swiftpm/
+DerivedData/
+
+# Xcode user state
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Editor and temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.temp
+.idea/
+.vscode/
+
+# Test and coverage artifacts
+.test-results/
+TestResults/
+coverage/
+*.profraw
+*.profdata
+
+# User-generated scan reports and exports
+NonoCleaner-Scan-*.txt
+NonoCleaner-Scan-*.md
+NonoCleaner-Scan-*.json
+Reports/
+reports/
+exports/
+
+# Logs and crash reports
+*.log
+*.crash
+*.ips
+Logs/
+logs/
+
+# Signing, notarization, and local credentials
+*.p12
+*.cer
+*.key
+*.pem
+*.mobileprovision
+*.provisionprofile
+*.xcarchive
+*.dSYM/
+notarization/
+signing/
+
+# Distribution artifacts
+dist/
+artifacts/
+*.dmg
+*.pkg
+*.zip
+
+# Package.resolved is intentionally not ignored. Commit it if Swift package
+# dependencies are added so application builds remain reproducible.
