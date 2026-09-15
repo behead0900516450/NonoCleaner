@@ -21,6 +21,10 @@ swift build -c release --disable-sandbox --sdk "$SDK_PATH" --scratch-path .build
 rm -rf "$APP_DIR"
 mkdir -p "$APP_DIR/Contents/MacOS"
 cp "$PROJECT_DIR/.build/release/NonoCleaner" "$APP_DIR/Contents/MacOS/NonoCleaner"
+# Swift release binaries can retain local source paths in debug symbols. Remove
+# those symbols before signing so distributable bundles do not expose the build
+# machine's username or checkout location.
+strip -S "$APP_DIR/Contents/MacOS/NonoCleaner"
 
 cat > "$APP_DIR/Contents/Info.plist" <<'PLIST'
 <?xml version="1.0" encoding="UTF-8"?>
